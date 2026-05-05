@@ -31,22 +31,11 @@
 
 ## 🚀 Projects
 
-### 🎮 PvP Engine
-**Stack:** Spring Boot, Kafka, Redis, PostgreSQL, Docker  
-Event-driven multiplayer backend with ELO rating system and real-time leaderboard using Redis ZSET.
-
----
-
-### 🏛️ Sanskriti App
-**Stack:** Kotlin, Jetpack Compose, MediaPipe, Retrofit, Room  
-ML-powered heritage recognition app with itinerary generation and optimized caching.
-
----
-
-### 📄 ATSlyzer
-**Stack:** Spring Boot, Docker, Android, Apache Tika  
-Resume analysis system that parses PDFs, generates ATS score, and suggests improvements based on job roles.
-
+| Project | Stack | Description |
+|--------|------|-------------|
+| 🎮 **PvP Engine** | Spring Boot, Kafka, Redis, PostgreSQL, Docker | Event-driven multiplayer backend with ELO rating system and real-time leaderboard using Redis ZSET |
+| 🏛️ **Sanskriti App** | Kotlin, Jetpack Compose, MediaPipe, Retrofit, Room | ML-powered heritage recognition app with itinerary generation and optimized caching |
+| 📄 **ATSlyzer** | Spring Boot, Docker, Android, Apache Tika | Resume analysis system that parses PDFs, generates ATS score, and suggests improvements based on job roles using Gemini AI |
 ---
 
 ## 🛠 Tech Stack
